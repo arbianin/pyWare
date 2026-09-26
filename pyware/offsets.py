@@ -1,4 +1,3 @@
-"""Mutable offset table: compiled snapshot defaults, live imtheo overrides."""
 from .offsets_snapshot import VERSION as COMPILED_VERSION, COMPILED
 
 IMTHEO_URL = "https://offsets.imtheo.lol/offsets.json"
