@@ -1,4 +1,3 @@
-"""Local-player writes. Guarded: resolved + safe-mode off, wrong offsets no-op."""
 import ctypes
 import math
 
