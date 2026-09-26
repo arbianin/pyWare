@@ -1,4 +1,3 @@
-"""Teleport via HRP primitive position writes (velocity zeroed)."""
 import subprocess
 
 from . import config, engine, sdk
