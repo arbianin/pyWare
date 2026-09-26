@@ -1,4 +1,3 @@
-"""Enemy head hitbox expander with restore on disable."""
 from . import config, engine
 
 O = __import__("pyware.offsets", fromlist=["get"]).get
