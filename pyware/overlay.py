@@ -1,9 +1,3 @@
-"""Fullscreen overlay: ESP + mouse ClickGUI + HUD, drawn over Roblox.
-
-Standard pattern: click-through while closed, clickable while open
-(WindowTransparentForInput toggled + show()). Transparent pixels always
-pass clicks to the game; painted pixels take them when clickable.
-"""
 import ctypes
 import math
 import time
