@@ -1,11 +1,8 @@
 """Regenerate pyware/offsets_snapshot.py from a fresh RbxDumperV2 offsets.cs.
 
 Usage (from the pyWare folder):
-    py tools/dump_to_snapshot.py [path/to/offsets.cs]
-
-The dumper schema (namespace Offsets, nested static classes, const longs)
-maps 1:1 onto the dotted keys the cheat uses at runtime.
-"""
+    py tools/dump_to_snapshot.py [path/to/offsets.cs]"""
+    
 import re
 import sys
 from pathlib import Path
