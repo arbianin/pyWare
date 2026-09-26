@@ -1,4 +1,3 @@
-"""Sticky RMB aimbot with smoothing + triggerbot. No hotkeys besides the key itself."""
 import ctypes
 import math
 import time
