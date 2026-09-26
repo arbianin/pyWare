@@ -1,8 +1,8 @@
 # pyWare
 
 A Roblox external written entirely in Python.
-
-It’s an overlay-based tool — no DLL injection, no Roblox process injection, and no FPS unlocker. It uses `NtReadVirtualMemory` / `NtWriteVirtualMemory` through `ctypes` to read and write memory.
+Do NOT expect every feature to work but do expect it being updated if something breaks, there are a few functions that are stragiht bullshit and it was made that way.
+It’s an overlay-based tool - no DLL injection, no Roblox process injection, and no FPS unlocker. It uses `NtReadVirtualMemory` / `NtWriteVirtualMemory` through `ctypes` to read and write memory.
 
 The overlay includes ESP, an in-game mouse-driven menu, aimbot/triggerbot, movement and world mods, teleport tools, diagnostics, and a console log.
 
