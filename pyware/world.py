@@ -1,4 +1,3 @@
-"""Client-side world visuals with original-value restore on disable."""
 from . import config, engine, sdk
 
 O = __import__("pyware.offsets", fromlist=["get"]).get
