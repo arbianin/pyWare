@@ -1,4 +1,3 @@
-"""80Hz entity cache, validation-gated offset-table attempts, diagnostics."""
 import math
 import threading
 import time
