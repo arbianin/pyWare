@@ -1,7 +1,6 @@
-"""Compiled offset snapshot generated from offsets.cs - DO NOT EDIT BY HAND.
 
-Regenerate with:  py tools/dump_to_snapshot.py [path/to/offsets.cs]
-"""
+"""Regenerate with:  py tools/dump_to_snapshot.py [path/to/offsets.cs]"""
+
 
 VERSION = "version-2366ba214ec740ca"
 
