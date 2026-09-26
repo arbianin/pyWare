@@ -1,4 +1,3 @@
-"""Process memory via native NT calls (ntdll), skipping the kernel32 wrapper layer."""
 import ctypes
 from struct import unpack
 
