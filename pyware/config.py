@@ -1,4 +1,3 @@
-"""All toggles + JSON save/load. Version-gated so stale configs never stick."""
 import json
 import os
 
