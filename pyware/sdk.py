@@ -1,4 +1,3 @@
-"""Instance-tree SDK + DataModel resolution with per-stage validation."""
 import time
 
 from . import offsets as O
